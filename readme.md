@@ -8,6 +8,8 @@ Editieren sie anschliessend diese Datei indem sie ihren Namen unten eintragen (F
 
 Anklin Florian - ankflo00
 
+Amrein Meret - amermer00
+
 Aeby Christophe Pierre - cpaeby
 
 Aellen Jonathan - JonathanAellen
@@ -136,6 +138,8 @@ Novak Samantha - sam167
 Oytun Yasin - yasiboy
 
 Ostermayer Dominique - DominiqueO
+
+Osterwalder Melissa - ostmel00
 
 Oehri Valentin - Shidox
 
